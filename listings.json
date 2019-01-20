@@ -1,0 +1,1162 @@
+{
+    "building": "Bootcamp",
+    "day": 0,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Bootcamp",
+    "day": 1,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Bootcamp",
+    "day": 2,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Bootcamp",
+    "day": 3,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Bootcamp",
+    "day": 4,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Bootcamp",
+    "day": 6,
+    "name": "Bootcamp",
+    "room": "Maguire Field",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Interval Training (45)",
+    "room": "SR 2",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Total Body (45)",
+    "room": "SR 2",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Total Body (45)",
+    "room": "SR 2",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Total Body (45)",
+    "room": "SR 2",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Total Body (45)",
+    "room": "SR 2",
+    "time": "06:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "07:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "07:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "07:15 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "08:00 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "08:00 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Hatha Yoga",
+    "room": "SR 3",
+    "time": "08:00 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Meditation (30)",
+    "room": "SR 3",
+    "time": "09:45 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Meditation (30)",
+    "room": "SR 3",
+    "time": "09:45 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "10:00 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "10:00 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "iBurn",
+    "room": "SR 2",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Power Yoga",
+    "room": "SR 3",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 5,
+    "name": "Power Yoga",
+    "room": "SR 3",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "10:30 AM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 5,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "iBurn (45)",
+    "room": "SR 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Total Body (45)",
+    "room": "SR 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "iBurn (45)",
+    "room": "SR 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Total Body (45)",
+    "room": "SR 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 5,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Core (30)",
+    "room": "SR 3",
+    "time": "1:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Core (30)",
+    "room": "SR 3",
+    "time": "1:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Core (30)",
+    "room": "SR 3",
+    "time": "1:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Core (30)",
+    "room": "SR 3",
+    "time": "1:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Zumba\u00ae",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Zumba\u00ae",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Interval Training (45)",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "BOSU\u00ae",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Kickboxing",
+    "room": "SR 3",
+    "time": "3:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Step (45)",
+    "room": "SR 2",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Center Barre",
+    "room": "SR 2",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Hip Hop Fitness",
+    "room": "SR 2",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "BOSU\u00ae",
+    "room": "SR 2",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Outdoor Yoga",
+    "room": "SR Lobby",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Outdoor Yoga",
+    "room": "SR Lobby",
+    "time": "4:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Cycle",
+    "room": "SR 1",
+    "time": "4:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "4:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Cycle",
+    "room": "SR 1",
+    "time": "4:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "4:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "4:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Power Yoga",
+    "room": "SR 3",
+    "time": "5:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "5:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Zumba\u00ae Step",
+    "room": "SR 3",
+    "time": "5:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 4,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "5:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "5:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Core (30)",
+    "room": "SR 2",
+    "time": "5:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Core (30)",
+    "room": "SR 2",
+    "time": "5:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Stadium Conditioning",
+    "room": "SR Lobby",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Stadium Conditioning",
+    "room": "SR Lobby",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Stadium Conditioning",
+    "room": "SR Lobby",
+    "time": "5:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Coached Swim (45)",
+    "room": "Florida Pool",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Coached Swim (45)",
+    "room": "Florida Pool",
+    "time": "6:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Center Barre",
+    "room": "SR 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Kickboxing",
+    "room": "SR 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Kickboxing",
+    "room": "SR 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Acro Yoga",
+    "room": "SR 4",
+    "time": "6:45 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Yogalates",
+    "room": "SR 4",
+    "time": "6:45 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "50/50",
+    "room": "SR 2",
+    "time": "7:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Total Body",
+    "room": "SR 2",
+    "time": "7:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "iBurn",
+    "room": "SR 2",
+    "time": "7:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "BOSU\u00ae",
+    "room": "SR 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Center Barre",
+    "room": "SR 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "8:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SR 1",
+    "time": "8:15 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 6,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "8:45 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 0,
+    "name": "Vinyasa Yoga",
+    "room": "SR 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 1,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 2,
+    "name": "Power Yoga",
+    "room": "SR 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Student Recreation & Fitness Center",
+    "day": 3,
+    "name": "Hip Hop Fitness",
+    "room": "SR 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Interval Training (45)",
+    "room": "SW 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Interval Training (45)",
+    "room": "SW 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Hatha Yoga",
+    "room": "SW 3",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Yin Yoga",
+    "room": "SW 3",
+    "time": "06:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "08:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "08:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "08:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "08:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "08:15 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Power Yoga",
+    "room": "SW 3",
+    "time": "10:00 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 5,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "10:30 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 6,
+    "name": "Total Body",
+    "room": "SW 1",
+    "time": "10:30 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 5,
+    "name": "Core (30)",
+    "room": "SW 1",
+    "time": "11:30 AM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Gator Theory",
+    "room": "SW Upstairs Cardio",
+    "time": "12:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Gator Theory",
+    "room": "SW Upstairs Cardio",
+    "time": "12:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Vinyasa Yoga",
+    "room": "SW 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Vinyasa Yoga",
+    "room": "SW 3",
+    "time": "12:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "12:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Total Body (45)",
+    "room": "SW 1",
+    "time": "12:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "12:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Total Body (45)",
+    "room": "SW 1",
+    "time": "12:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "12:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 5,
+    "name": "Total Body",
+    "room": "SW 1",
+    "time": "1:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 6,
+    "name": "Interval Training",
+    "room": "SW 1",
+    "time": "1:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Gator Theory",
+    "room": "SW Upstairs Cardio",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "ViPR\u00ae Intervals (45)",
+    "room": "SW 1",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Zumba\u00ae",
+    "room": "SW 1",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Vinyasa Yoga",
+    "room": "SW 3",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Yogalates",
+    "room": "SW 3",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "3:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 4,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 6,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Interval Training (45)",
+    "room": "SW 3",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "5:15 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "5:45 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Power Yoga",
+    "room": "SW 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Vinyasa Yoga (75)",
+    "room": "SW 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Kickboxing",
+    "room": "SW 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Interval Training (45)",
+    "room": "SW 3",
+    "time": "6:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Total Body",
+    "room": "SW 1",
+    "time": "7:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "iBurn",
+    "room": "SW 1",
+    "time": "7:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Total Body (45)",
+    "room": "SW 1",
+    "time": "7:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "iBurn",
+    "room": "SW 1",
+    "time": "7:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Yin Yoga (75)",
+    "room": "SW 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Zumba\u00ae",
+    "room": "SW 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Power Yoga (75)",
+    "room": "SW 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "8:00 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "8:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Total Body (45)",
+    "room": "SW 1",
+    "time": "8:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Cycle (45)",
+    "room": "SW 1",
+    "time": "8:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Total Body (45)",
+    "room": "SW 1",
+    "time": "8:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 6,
+    "name": "Vinyasa Yoga",
+    "room": "SW 3",
+    "time": "8:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 0,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 1,
+    "name": "Power Yoga",
+    "room": "SW 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 2,
+    "name": "Hip Hop Fitness",
+    "room": "SW 3",
+    "time": "9:30 PM"
+}
+{
+    "building": "Southwest Recreation Center",
+    "day": 3,
+    "name": "Recovery Yoga (75)",
+    "room": "SW 3",
+    "time": "9:30 PM"
+}
