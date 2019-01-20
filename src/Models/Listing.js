@@ -1,7 +1,7 @@
-const mongoose = require('mongoose'),
-    Schema = mongoose.Schema;
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
-var listingSchema = new mongoose.Schema({
+var ListingSchema = new mongoose.Schema({
     day: {
         type: String,
         required: true
@@ -27,6 +27,9 @@ var listingSchema = new mongoose.Schema({
         required: true
     },
     category: {
-        type: String
+        type: String,
+        required: true
     }
 });
+
+module.exports = Listing = mongoose.model('listing', ListingSchema)
