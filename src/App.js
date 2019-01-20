@@ -24,6 +24,31 @@ class App extends Component {
   }
 }
 
+const BUTTONS = ['Default'];
+
+function renderDropdownButton(title, i) {
+  return (
+    <DropdownButton
+      bsStyle={title.toLowerCase()}
+      title={title}
+      key={i}
+      id={`dropdown-basic-${i}`}
+    >
+      <MenuItem eventKey="1">Period 1</MenuItem>
+      <MenuItem eventKey="2">Period 2</MenuItem>
+      <MenuItem eventKey="3">Period 3</MenuItem>
+      <MenuItem divider />
+      <MenuItem eventKey="4">No Class</MenuItem>
+    </DropdownButton>
+  );
+}
+
+const buttonsInstance = (
+  <ButtonToolbar>{BUTTONS.map(renderDropdownButton)}</ButtonToolbar>
+);
+
+render(buttonsInstance);
+
 
 
 //<a
