@@ -1,7 +1,7 @@
-var mongoose = require('mongoose'),
+const mongoose = require('mongoose'),
     Schema = mongoose.Schema;
 
-var listingSchema = new Schema({
+var listingSchema = new mongoose.Schema({
     day: {
         type: String,
         required: true
