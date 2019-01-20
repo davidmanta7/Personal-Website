@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+
+.App-TOP {
+  background-color: #282c32;
+  min-height: 100vh;   /*   Minimum pixels that the background color will cover */
+}
+
+.App-header {
+  padding-top: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: top;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: orange;
+}
+
+.App-text{
+  color: blue;
+  text-align: center;
+}
+
+.App-Dropbtn{
+ text-align:center;
+ background-color: #4CAF50;
+ color: white;
+ padding: 16px;
+ font-size: 16px;
+ border: none;
+ cursor: pointer;
+}
+
+.App-Dropdown{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.App-DropContent{
+  display: none;
+  position: absolute;
+  background-color: #159340;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.App-Drop:hover .App-DropCont{
+  display: block;
+}
+
+.dropdown-content{
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
